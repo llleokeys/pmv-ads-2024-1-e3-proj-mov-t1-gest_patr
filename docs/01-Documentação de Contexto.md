@@ -14,7 +14,7 @@ Fazer o levantamento dos bens é a primeira medida a realizar, isso inclui imóv
 
 
 ## Problema
-Implementar ou iniciar a Gestão Patrimonial em uma empresa é desafiador pois identificar e avaliar cada item, estado de conservação é uma tarefa que demanda tempo e muita pesquisa. Existem poucos aplicativos desse tipo no mercado, o que nos mostra que é de grande demanda e aplicabilidade em uma grande fatia do mercado empresarial, além de representar uma oportunidade significativa para melhorar o processo de controle de bens das empresas que o adotarem.
+Implementar ou iniciar a Gestão Patrimonial em uma empresa é desafiador, pois identificar e avaliar cada item, estado de conservação é uma tarefa que demanda tempo e muita pesquisa. Existem poucos aplicativos desse tipo no mercado, o que nos mostra que é de grande demanda e aplicabilidade em uma grande fatia do mercado empresarial, além de representar uma oportunidade significativa para melhorar o processo de controle de bens das empresas que o adotarem.
 
 ## Objetivos
  Desenvolver um aplicativo gerencial intuitivo, simplificando a identificação e classificação dos ativos.
